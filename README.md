@@ -60,10 +60,17 @@ class Development(Var):
 # Heroku Requirements
 
 Api id = https://my.telegram.org/auth?to=delete
+
 Api hash= https://my.telegram.org/auth?to=delete
+
 For PMPERMITPIC = Go to telegram and @vTelegraphBot  Got to this bot and upload your image and get the link
+
 Heroku api id = Goto  https://dashboard.heroku.com/account ( and scroll down you can see api key)
+
 Group id ( public id and  private id )= Go to Telegram and create group with you bot and add missrose bot to your group and go to group settings and enable visible old chat to new users and after done type  /id .
+
+
  Timezone = asia /Kolkata (for indians)
+
 Bot token = go to bot father and you get bot api id
 ```
