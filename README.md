@@ -35,11 +35,12 @@ Simply clone the repository and run the main file:
 ```sh
 git clone https://github.com/HellBoy-OP/HellBot
 cd HellBot
-virtualenv -p /usr/bin/python3 venv
-. ./venv/bin/activate
+python3  -m venv venv 
+ . ./venv/bin/activate
+cd /sdcard/Telegram
 pip install -r requirements.txt
-# <Create local_config.py with variables as given below>
-python3 -m userbot
+# <For Generating String>
+python3 string_session.py
 ```
 
 An example `local_config.py` file could be:
