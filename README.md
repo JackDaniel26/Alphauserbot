@@ -33,26 +33,14 @@ Simply clone the repository and run the main file:
 git clone https://github.com/HellBoy-OP/HellBot
 cd HellBot
 python3  -m venv venv 
- . ./venv/bin/activate
+. ./venv/bin/activate
 cd /sdcard/Telegram
 pip install -r requirements.txt
 pip install telethon
 # <For Generating String>
 python3 string_session.py
 ```
-
-
-**Not All of the variables are mandatory**
-
-__The Userbot should work by setting only the first two variables__
-
-```python3
-from heroku_config import Var
-
-class Development(Var):
-  APP_ID = 6
-  API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
-```
+*If Any problem Again Try and Read All carefully*
 
 # Heroku Requirements
 
