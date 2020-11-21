@@ -12,10 +12,10 @@ This is the one and only official HellBot Userbot made by [@Kraken_The_BadASS](h
 [![HellBot logo](https://i.ibb.co/Swvg82s/IMG-20201029-205430-067.jpg)](https://t.me/hellbot_official)
 
 
-# The owner would not be responsible for any kind of bans due to the bot...
+***The owner would not be responsible for any kind of bans due to the bot...***
 
 
-# For any query:-
+** For any query:-**
 ### [Join Here For Any Query](https://t.me/joinchat/AAAAAFO02LJExFJSzi_xVA)
 
 
