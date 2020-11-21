@@ -70,8 +70,7 @@ Heroku api id = Goto  https://dashboard.heroku.com/account ( and scroll down you
 
 Group id ( public id and  private id )= Go to Telegram and create group with you bot and add missrose bot to your group and go to group settings and enable visible old chat to new users and after done type  /id .
 
-
- Timezone = asia /Kolkata (for indians)
+Timezone = asia /Kolkata (for indians)
 
 Bot token = go to bot father and you get bot api id
 ```
