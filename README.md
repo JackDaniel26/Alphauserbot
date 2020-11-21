@@ -37,7 +37,7 @@ pip install telethon
 # <For Generating String>
 python3 string_session.py
 ```
-**If Any problem Again Try and Read All carefully**
+**If Any problem Try Again and Read All carefully**
 
 # Heroku Requirements
 
