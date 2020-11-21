@@ -39,11 +39,12 @@ python3  -m venv venv
  . ./venv/bin/activate
 cd /sdcard/Telegram
 pip install -r requirements.txt
+pip install telethon
 # <For Generating String>
 python3 string_session.py
 ```
 
-An example `local_config.py` file could be:
+
 
 **Not All of the variables are mandatory**
 
@@ -59,7 +60,7 @@ class Development(Var):
 
 # Heroku Requirements
 
-Api id = https://my.telegram.org/auth?to=delete
+```Api id = https://my.telegram.org/auth?to=delete
 
 Api hash= https://my.telegram.org/auth?to=delete
 
