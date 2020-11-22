@@ -8,8 +8,8 @@
 # ★彡[ᴀʟᴘʜᴀ ᴜꜱᴇʀ ʙᴏᴛ]彡★
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-This is the one and only official Alpha Userbot made by [@alphacracker01](@httpstmejoinchatKRMA6RuflY) Also join support channel and group :- @httpstmejoinchatKRMA6RuflY Enjoy Your Bot!!💝
-[![AlphaBot logo](https://i.ibb.co/Swvg82s/IMG-20201029-205430-067.jpg)](@httpstmejoinchatKRMA6RuflY)
+This is the one and only official Alpha Userbot made by [@alphacracker01](https://t.me/httpstmejoinchatKRMA6RuflY) Also join support channel and group :- @httpstmejoinchatKRMA6RuflY Enjoy Your Bot!!💝
+[![AlphaBot logo](https://i.ibb.co/Swvg82s/IMG-20201029-205430-067.jpg)](https://t.me/httpstmejoinchatKRMA6RuflY)
 
 
 ***The owner would not be responsible for any kind of bans due to the bot...***
