@@ -1,4 +1,4 @@
-# Idhar kya dekhne aaya be bsdk. Credit to @Kraken_The_BadASS for @HellBot_official
+# Idhar kya dekhne aaya be bsdk. Credit to @alphacracker01 for @hackphiles
 
 import asyncio
 from telethon import events
